@@ -1,23 +1,13 @@
-# {{ name }}
+# 谷粒学院前台前端完整代码
 
-> {{ description }}
+前台采用Nutx框架
 
-## Build Setup
+## 运行环境
+  VsCode
 
-``` bash
-# install dependencies
-$ npm install # Or yarn install
+## 启动命令
 
-# serve with hot reload at localhost:3000
 $ npm run dev
 
-# build for production and launch server
-$ npm run build
-$ npm start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+Author : lebrwcd
 
